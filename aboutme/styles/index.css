@@ -1,0 +1,13 @@
+.header{
+    color: #ef570b;
+}
+#nick{
+    font-style: italic;
+    color: blue;
+}
+#name{
+    color: rgba(241, 0, 0, 0.944);
+}
+.favorite{
+    color: rgb(71, 36, 114);
+}
