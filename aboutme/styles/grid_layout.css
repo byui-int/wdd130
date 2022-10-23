@@ -1,0 +1,16 @@
+
+
+.grid containers {
+    display: grid;
+    grid-template-columns: 1fr;
+    background-color: aqua;
+    padding: 50px;
+}
+
+.grid item{
+    background-color: aquamarine;
+    border: 1px beige;
+    padding: 20px;
+    text-align: center;
+
+}
